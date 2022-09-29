@@ -7,5 +7,14 @@
         "mileage": "32kmpl",
         "approx.Cost": "2.85-2.99 lakh Rs",
         "website":"https://www.bikewale.com/bmw-bikes/g-310-r/"
+    },
+    {
+        "id":3,
+        "companyName": "Porsche",
+        "category": "Car",
+        "modelName":"Porsche 911",
+        "mileage": "9-11kmpl",
+        "approx.Cost": "1.72 lakh Rs",
+        "website":"https://www.carwale.com/porsche-cars/911/"
     }
 ]
