@@ -1,10 +1,11 @@
 [
     {
         "id":1,
-        "Company Name": "BMW",
-        "Category": "Bike",
-        "Model Name":"G 310R",
-        "Mileage": "32kmpl",
-        "Approx. Cost": "2.85-2.99 lakhs"
+        "companyName": "BMW",
+        "category": "Bike",
+        "modelName":"G 310R",
+        "mileage": "32kmpl",
+        "approx.Cost": "2.85-2.99 lakh Rs",
+        "website":"https://www.bikewale.com/bmw-bikes/g-310-r/"
     }
 ]
