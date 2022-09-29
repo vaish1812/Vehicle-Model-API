@@ -7,5 +7,14 @@
         "mileage": "32kmpl",
         "approx.Cost": "2.85-2.99 lakh Rs",
         "website":"https://www.bikewale.com/bmw-bikes/g-310-r/"
+    },
+    {
+        "id":2,
+        "companyName": "Mercedes-Benz",
+        "category": "Car",
+        "modelName":"G 350d 4Matic",
+        "mileage": "9kmpl",
+        "approx.Cost": "1.31 Cr Rs.",
+        "website":"https://www.carwale.com/mercedes-benz-cars/g-class/"
     }
 ]
