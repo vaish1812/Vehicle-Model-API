@@ -112,9 +112,31 @@
         "mileage": "9-15kmpl",
         "approx.Cost": "15 lakhs",
         "website":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fimgd.aeplcdn.com%2F0x0%2Fn%2Fcw%2Fec%2F40087%2Fthar-exterior-right-front-three-quarter-11.jpeg&imgrefurl=https%3A%2F%2Fwww.carwale.com%2Fmahindra-cars%2Fthar%2F&tbnid=RZz5Fr5nKckqJM&vet=12ahUKEwicof252Lz6AhVM6XMBHfVJC70QMygBegUIARDFAQ..i&docid=AnOOqA3Wy1lLVM&w=1920&h=1080&q=thar%20mahindra%20link&ved=2ahUKEwicof252Lz6AhVM6XMBHfVJC70QMygBegUIARDFAQ"
+
     },
     {
         "id":13,
+        "companyName": "Mahindra",
+        "category": "car",
+        "modelName":"XUV700 ",
+        "mileage": "27kmpl",
+        "approx.Cost": "13.45 lack onwards",
+        "website":"https://www.carwale.com/mahindra-cars/xuv700/"
+    },
+    
+    {
+        "id":14,
+        "companyName": "BYD",
+        "category": "e-car",
+        "modelName":"e6",
+        "mileage": "71.7 kWh",
+        "approx.Cost": "29.15 Lakh",
+        "website":"https://www.carwale.com/mahindra-cars/xuv700/"
+    },
+
+    
+    {
+        "id":15,
         "companyName": "maruti",
         "category": "car",
         "modelName":"800",
@@ -123,7 +145,7 @@
         "website":"https://www.bikewale.com/bmw-bikes/g-310-r/"
     },
     {
-        "id":14,
+        "id":16,
         "companyName": "maruti suzuki",
         "category": "Car",
         "modelName":"creta"         ,
@@ -134,7 +156,7 @@
 
 
     {
-        "id":15,
+        "id":17,
         "companyName": "Shelby",
         "category": "Car",
         "modelName":"GT500"         ,
@@ -144,7 +166,7 @@
    },
 
    {
-       "id":16,
+        "id":18,
         "companyName": "BMW",
         "category": "Car",
         "modelName":"M5",
@@ -153,7 +175,7 @@
         "website":"https://www.cardekho.com/bmw/m5"
    },
    {
-        "id":17,
+        "id":19,
         "companyName": "Volkswagen",
         "category": "Car",
         "modelName":"Taigun",
@@ -162,7 +184,7 @@
         "website":"https://www.volkswagen.co.in/en/models/taigun.html"
    },
    {
-        "id":18,
+        "id":20,
         "companyName": "Tata",
         "category": "Car",
         "modelName":"nano",
@@ -171,7 +193,7 @@
         "website":"https://www.carwale.com/tata-cars/nano/"
    },
    {
-        "id":19,
+        "id":21,
         "companyName": "Kia",
         "category": "Car",
         "modelName":"Seltos",
@@ -180,4 +202,5 @@
         "website":"https://www.cardekho.com/kia/seltos"
    }
    
+
 ]
