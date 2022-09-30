@@ -79,7 +79,7 @@
         "id":9,
         "companyName": "Maruti 800",
         "category": "Car",
-        "modelName":"800"         ,
+        "modelName":"800",
         "mileage": "4-5 kmpl",
         "approx.Cost": "2 lakhs",
         "website":"https://www.cardekho.com/carmodels/Maruti/Maruti_800"
@@ -89,7 +89,7 @@
         "id":10,
         "companyName": "Suzuki",
         "category": "Car",
-        "modelName":"Wagon R"         ,
+        "modelName":"Wagon R",
         "mileage": "25-30 kmpl",
         "approx.Cost": "5-7 lakhs",
         "website":"https://www.cardekho.com/maruti/wagon-r"
@@ -112,7 +112,8 @@
         "mileage": "9-15kmpl",
         "approx.Cost": "15 lakhs",
         "website":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fimgd.aeplcdn.com%2F0x0%2Fn%2Fcw%2Fec%2F40087%2Fthar-exterior-right-front-three-quarter-11.jpeg&imgrefurl=https%3A%2F%2Fwww.carwale.com%2Fmahindra-cars%2Fthar%2F&tbnid=RZz5Fr5nKckqJM&vet=12ahUKEwicof252Lz6AhVM6XMBHfVJC70QMygBegUIARDFAQ..i&docid=AnOOqA3Wy1lLVM&w=1920&h=1080&q=thar%20mahindra%20link&ved=2ahUKEwicof252Lz6AhVM6XMBHfVJC70QMygBegUIARDFAQ"
-    }
+
+    },
     {
         "id":13,
         "companyName": "Mahindra",
@@ -132,4 +133,74 @@
         "approx.Cost": "29.15 Lakh",
         "website":"https://www.carwale.com/mahindra-cars/xuv700/"
     },
+
+    
+    {
+        "id":15,
+        "companyName": "maruti",
+        "category": "car",
+        "modelName":"800",
+        "mileage": "12kmpl",
+        "approx.Cost": "2.85-2.99 lakh Rs",
+        "website":"https://www.bikewale.com/bmw-bikes/g-310-r/"
+    },
+    {
+        "id":16,
+        "companyName": "maruti suzuki",
+        "category": "Car",
+        "modelName":"creta"         ,
+        "mileage": "9-11kmpl",
+        "approx.Cost": "20 lakhs",
+        "website":"https://www.cardekho.com/hyundai/creta"
+    },
+
+
+    {
+        "id":17,
+        "companyName": "Shelby",
+        "category": "Car",
+        "modelName":"GT500"         ,
+        "mileage": "12-18 mpg",
+        "approx.Cost": "2 Cr",
+        "website":"https://www.ford.com/cars/mustang/models/shelby-gt-500/"
+   },
+
+   {
+        "id":18,
+        "companyName": "BMW",
+        "category": "Car",
+        "modelName":"M5",
+        "mileage": "9.12kmpl",
+        "approx.Cost": "1.74 CrRs",
+        "website":"https://www.cardekho.com/bmw/m5"
+   },
+   {
+        "id":19,
+        "companyName": "Volkswagen",
+        "category": "Car",
+        "modelName":"Taigun",
+        "mileage": "18 kmpl",
+        "approx.Cost": "20 lakhs",
+        "website":"https://www.volkswagen.co.in/en/models/taigun.html"
+   },
+   {
+        "id":20,
+        "companyName": "Tata",
+        "category": "Car",
+        "modelName":"nano",
+        "mileage": "25.39kmpl",
+        "approx.Cost": "2,05 Lakh",
+        "website":"https://www.carwale.com/tata-cars/nano/"
+   },
+   {
+        "id":21,
+        "companyName": "Kia",
+        "category": "Car",
+        "modelName":"Seltos",
+        "mileage": "20.8 kmpl",
+        "approx.Cost": "Rs.10.49 - 18.65 Lakh*",
+        "website":"https://www.cardekho.com/kia/seltos"
+   }
+   
+
 ]
