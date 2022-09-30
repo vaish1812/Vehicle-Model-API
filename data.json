@@ -237,6 +237,7 @@
         "approx.Cost": "Rs.10.49 - 18.65 Lakh*",
         "website":"https://www.cardekho.com/kia/seltos"
    },
+
    {
        "id":25,
         "companyName": "Aston Martin",
@@ -282,9 +283,16 @@
         "mileage": "93.4kWh",
         "approx.Cost": "1.68 CrRs",
         "website":"https://www.cardekho.com/audi/e-tron-gt"
-   }
-
-
+   },
+{
+        "id":30,
+        "companyName": "Maruti",
+        "category": "Car",
+        "modelName":"Baleno",
+        "mileage": "22.24kmpl",
+        "approx.Cost": "6.5-10 lakh Rs",
+        "website":"https://www.cardekho.com/carmodels/Maruti/Maruti_Baleno"
+    }
    
 
 
