@@ -121,26 +121,35 @@
         "mileage": "12kmpl",
         "approx.Cost": "2.85-2.99 lakh Rs",
         "website":"https://www.bikewale.com/bmw-bikes/g-310-r/"
-    }
+    },
     {
-        "id":12,
+        "id":14,
         "companyName": "maruti suzuki",
         "category": "Car",
         "modelName":"creta"         ,
         "mileage": "9-11kmpl",
         "approx.Cost": "20 lakhs",
         "website":"https://www.cardekho.com/hyundai/creta"
-    }
+    },
     
    {
-       "id":13,
+       "id":15,
         "companyName": "BMW",
         "category": "Car",
         "modelName":"M5",
         "mileage": "9.12kmpl",
         "approx.Cost": "1.74 CrRs",
         "website":"https://www.cardekho.com/bmw/m5"
-   }
-    
+   },
+        
+   {
+       "id":16,
+        "companyName": "BMW m3 competition",
+        "category": "Car",
+        "modelName":"M3",
+        "mileage": "9.12kmpl",
+        "approx.Cost": "3.74 CrRs",
+        "website":"https://www.cardekho.com/bmw/m3"
+   },
 
 ]
