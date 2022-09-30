@@ -183,6 +183,9 @@
         "approx.Cost": "1.74 CrRs",
         "website":"https://www.cardekho.com/bmw/m5"
    },
+
+   
+
    {
        "id":19,
         "companyName": "toyota",
@@ -239,7 +242,17 @@
         "website":"https://www.cardekho.com/kia/seltos"
 
    }
+   {
+       "id":25,
+        "companyName": "Aston Martin",
+        "category": "Car",
+        "modelName":"Valkyrie",
+        "mileage": "9-12kmpl",
+        "approx.Cost": "3.2 CrRs",
+        "website":"https://www.autocarindia.com/car-news/aston-martin-unveils-limited-edition-valkyrie-spider-421736#:~:text=The%20British%20brand's%20most%20recent,crore%20(ex%2Dshowroom)."
+   }
    
+
 
 
 
