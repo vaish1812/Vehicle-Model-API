@@ -376,6 +376,15 @@
         "approx.Cost": "1.3 lakhs Rs",
         "website":"https://www.bikewale.com/bajaj-bikes/pulsar-220/"
   }
+ {
+        "id":39,
+        "companyName": "pulsur",
+        "category": "mobile",
+        "modelName":"stdt 220F",
+        "mileage": "50 kmpl",
+        "approx.Cost": "1.9 lakhs Rs",
+        "website":"https://www.bikewale.com/pulsar-bikes/pulsar-220/"
+  }
 
 
 
