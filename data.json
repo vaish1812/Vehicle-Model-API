@@ -149,15 +149,13 @@
         "approx.Cost": "1.74 CrRs",
         "website":"https://www.cardekho.com/bmw/m5"
    },
-   {
-       "id":14,
-        "companyName": "Tata",
-        "category": "Car",
-        "modelName":"nano",
-        "mileage": "25.39kmpl",
-        "approx.Cost": "2,05 Lakh",
-        "website":"https://www.carwale.com/tata-cars/nano/"
-   }
+     "id":42,
+        "companyName": "Mercedes",
+        "category": "CAR",
+        "modelName":"G 310R",
+        "mileage": "32kmpl",
+        "approx.Cost": "52.85-62.99 lakh Rs",
+        "website":"https://www.carwale.com/bmw-bikes/g-310-r/"
     
 
 
