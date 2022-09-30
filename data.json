@@ -266,6 +266,15 @@
         "approx.Cost": "Rs 8.99 - 10.45 crore",
         "website":"https://www.rolls-roycemotorcars.com/en_GB/showroom/phantom.html"
    },
+    {
+        "id":28,
+        "companyName": "BMW",
+        "category": "Bike",
+        "modelName":"G 310R",
+        "mileage": "32kmpl",
+        "approx.Cost": "2.85-2.99 lakh Rs",
+        "website":"https://www.bikewale.com/bmw-bikes/g-310-r/"
+    },
 
    
 
