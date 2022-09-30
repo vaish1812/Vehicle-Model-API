@@ -238,6 +238,7 @@
         "approx.Cost": "Rs.10.49 - 18.65 Lakh*",
         "website":"https://www.cardekho.com/kia/seltos"
    },
+
    {
        "id":25,
         "companyName": "Aston Martin",
@@ -255,9 +256,19 @@
         "mileage": "9.18kmpl",
         "approx.Cost": "2.6CrRs",
         "website":"https://www.cardekho.com/bmw/m5"
-   }
+   },
+   {
+        "id":27,
+        "companyName": "rolls royce",
+        "category": "Car",
+        "modelName":" phantom",
+        "mileage": "9.8 kmpl",
+        "approx.Cost": "Rs 8.99 - 10.45 crore",
+        "website":"https://www.rolls-roycemotorcars.com/en_GB/showroom/phantom.html"
+   },
 
    
+
 
 
 
