@@ -315,6 +315,16 @@
         "website":"https://www.bikewale.com/bmw-bikes/g-310-r/"
     },
     {
+
+        "id":60,
+        "companyName": "Maruti Wagon R",
+        "category": "Car",
+        "modelName":"LXI",
+        "mileage": "24.35 km/l",
+        "approx.Cost": "5.47lakh",
+        "website":"https://www.googleadservices.com/pagead/"
+   }
+
        "id":34,
         "companyName": "TATA",
         "category": "Car",
@@ -322,6 +332,7 @@
         "mileage": "9.12kmpl",
         "approx.Cost": "1.74 CrRs",
         "website":"https://www.cardekho.com/tata/harrier"
+
 
    },
    {
