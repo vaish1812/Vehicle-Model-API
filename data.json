@@ -140,6 +140,15 @@
         "mileage": "9.12kmpl",
         "approx.Cost": "1.74 CrRs",
         "website":"https://www.cardekho.com/bmw/m5"
+   },
+   {
+       "id":14,
+        "companyName": "Toyota",
+        "category": "Car",
+        "modelName":"2023 GR Supra",
+        "mileage": "11 kmpl",
+        "approx.Cost": "36 lakhs",
+        "website":"https://www.toyota.com/grsupra/"
    }
     
 
