@@ -144,7 +144,10 @@
         "mileage": "12kmpl",
         "approx.Cost": "2.85-2.99 lakh Rs",
         "website":"https://www.bikewale.com/bmw-bikes/g-310-r/"
+
     },
+
+
     {
         "id":16,
         "companyName": "maruti suzuki",
@@ -154,6 +157,7 @@
         "approx.Cost": "20 lakhs",
         "website":"https://www.cardekho.com/hyundai/creta"
     },
+
 
 
     {
@@ -166,6 +170,7 @@
         "website":"https://www.ford.com/cars/mustang/models/shelby-gt-500/"
    },
 
+
    {
         "id":18,
         "companyName": "BMW",
@@ -174,6 +179,13 @@
         "mileage": "9.12kmpl",
         "approx.Cost": "1.74 CrRs",
         "website":"https://www.cardekho.com/bmw/m5"
+
+   }
+
+   
+    
+
+
    },
     
     
@@ -266,17 +278,18 @@
         "mileage": "27kmpl",
         "approx.Cost": "13.45 lack onwards",
         "website":"https://www.carwale.com/mahindra-cars/xuv700/"
-    }
-     {
-        "id":29,
-        "companyName": "volkswagen",
-        "category": "car",
-        "modelName":"polo comfortline 1.0L MPI ",
-        "mileage": "17.7kmpl",
-        "approx.Cost": "7.52-12.15 lakh Rs",
-        "website":"https://www.carwale.com/volkswagen-cars/polo/"
-    },
+   },
     {
+        "id":29,
+        "companyName": "BMW",
+        "category": "Bike",
+        "modelName":"G 310R",
+        "mileage": "32kmpl",
+        "approx.Cost": "2.85-2.99 lakh Rs",
+        "website":"https://www.bikewale.com/bmw-bikes/g-310-r/"
+    },
+   {
+
         "id":30,
         "companyName": "Audi",
         "category": "Car",
@@ -316,15 +329,6 @@
     },
     {
 
-        "id":60,
-        "companyName": "Maruti Wagon R",
-        "category": "Car",
-        "modelName":"LXI",
-        "mileage": "24.35 km/l",
-        "approx.Cost": "5.47lakh",
-        "website":"https://www.googleadservices.com/pagead/"
-   }
-
        "id":34,
         "companyName": "TATA",
         "category": "Car",
@@ -346,11 +350,33 @@
    },
    {
         "id":36,
+        "companyName": "Maruti Wagon R",
+        "category": "Car",
+        "modelName":"LXI",
+        "mileage": "24.35 km/l",
+        "approx.Cost": "5.47lakh",
+        "website":"https://www.googleadservices.com/pagead/"
+   },
+   {
+
+       "id":37,
+        "companyName": "TVS",
+        "category": "Bike",
+        "modelName":"Raider 125",
+        "mileage": "60kmpl",
+        "approx.Cost": "Around 1 lakh Rs",
+        "website":"https://www.bikewale.com/tvs-bikes/raider-125/"
+  },
+  {
+        "id":38,
         "companyName": "bajaj",
         "category": "Bike",
         "modelName":"pulsar 220F",
         "mileage": "38 kmpl",
         "approx.Cost": "1.3 lakhs Rs",
         "website":"https://www.bikewale.com/bajaj-bikes/pulsar-220/"
-   }
+  }
+
+
+
 ]
