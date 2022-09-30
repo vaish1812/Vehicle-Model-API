@@ -140,6 +140,15 @@
         "mileage": "9.12kmpl",
         "approx.Cost": "1.74 CrRs",
         "website":"https://www.cardekho.com/bmw/m5"
+   },
+    {
+        "id":14,
+        "companyName": "bajaj",
+        "category": "Bike",
+        "modelName":"pulsar 220F",
+        "mileage": "38 kmpl",
+        "approx.Cost": "1.3 lakhs Rs",
+        "website":"https://www.bikewale.com/bajaj-bikes/pulsar-220/"
    }
     
 
