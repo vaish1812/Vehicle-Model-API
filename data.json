@@ -175,24 +175,7 @@
         "approx.Cost": "1.74 CrRs",
         "website":"https://www.cardekho.com/bmw/m5"
    },
-{
-     "id":42,
-        "companyName": "Mercedes",
-        "category": "CAR",
-        "modelName":"G 310R",
-        "mileage": "32kmpl",
-        "approx.Cost": "52.85-62.99 lakh Rs",
-        "website":"https://www.carwale.com/bmw-bikes/g-310-r/"
-    },
-{
-        "id":14,
-        "companyName": "hyundai",
-        "category": "car",
-        "modelName":"i20",
-        "mileage": "25kmpl",
-        "approx.Cost": "7-11.99 lakh Rs",
-        "website":"https://www.cardekho.com/carmodels/Hyundai/Hyundai_i20"
-        },
+
     {
        "id":14,
         "companyName": "Honda",
@@ -332,7 +315,7 @@
         "website":"https://www.carwale.com/mahindra-cars/xuv700/"
    },
     {
-        "id":29,
+        "id":28,
         "companyName": "BMW",
         "category": "Bike",
         "modelName":"G 310R",
@@ -342,7 +325,7 @@
     },
    {
 
-        "id":30,
+        "id":29,
         "companyName": "Audi",
         "category": "Car",
         "modelName":"e-tron GT",
@@ -351,13 +334,13 @@
         "website":"https://www.cardekho.com/audi/e-tron-gt"
    },
    {
-       "id":31,
-        "companyName": "audi",
+        "id":30,
+        "companyName": "MG Hector",
         "category": "Car",
-        "modelName":"Mz",
-        "mileage": "10kmpl",
-        "approx.Cost": "2.34 CrRs",
-        "website":"https://www.cardekho.com/bmw/m5"
+        "modelName":"HECTOR DIESEL 2.0 MT STYLE BSVI",
+        "mileage": "17.8kWh",
+        "approx.Cost": "20.11 Lakh Rs",
+        "website":"https://www.carwale.com/mg-cars/hector/sharp-20-diesel-turbo-mt/"
    },
 
    {
