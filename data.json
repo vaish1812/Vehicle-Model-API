@@ -131,7 +131,6 @@
         "approx.Cost": "20 lakhs",
         "website":"https://www.cardekho.com/hyundai/creta"
     },
-
     {
         "id":15,
         "companyName": "Shelby",
@@ -151,22 +150,22 @@
         "website":"https://www.cardekho.com/bmw/m5"
    },
    {
-       "id":17,
+       "id":14,
         "companyName": "Tata",
         "category": "Car",
         "modelName":"nano",
         "mileage": "25.39kmpl",
         "approx.Cost": "2,05 Lakh",
         "website":"https://www.carwale.com/tata-cars/nano/"
-   },
-   {
-        "id":18,
-        "companyName": "Kia",
-        "category": "Car",
-        "modelName":"Seltos",
-        "mileage": "20.8 kmpl",
-        "approx.Cost": "Rs.10.49 - 18.65 Lakh*",
-        "website":"https://www.cardekho.com/kia/seltos"
+   }
+     {
+       "id":15,
+        "companyName": "Tata",
+        "category": "mid suv",
+        "modelName":"nexon",
+        "mileage": "12-16.39kmpl",
+        "approx.Cost": "10 Lakh",
+        "website":"https://www.carwale.com/tata-cars/nexon/"
    }
     
 
