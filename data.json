@@ -175,7 +175,9 @@
         "approx.Cost": "1.74 CrRs",
         "website":"https://www.cardekho.com/bmw/m5"
    },
-    {
+    
+    
+   {
        "id":19,
         "companyName": "toyota",
         "category": "Car",
@@ -203,7 +205,6 @@
         "website":"https://www.toyota.com/grsupra/"
     },
     {
-
         "id":22,
         "companyName": "Volkswagen",
         "category": "Car",
@@ -324,12 +325,21 @@
 
    },
    {
-       "id":35,
+        "id":35,
         "companyName": "Mahindra",
         "category": "Truck",
         "modelName":"Scorpio-N",
         "mileage": "10kmpl",
         "approx.Cost": "11-13 lakhs",
         "website":"https://www.carwale.com/mahindra-cars/scorpio/"
+   },
+   {
+        "id":36,
+        "companyName": "bajaj",
+        "category": "Bike",
+        "modelName":"pulsar 220F",
+        "mileage": "38 kmpl",
+        "approx.Cost": "1.3 lakhs Rs",
+        "website":"https://www.bikewale.com/bajaj-bikes/pulsar-220/"
    }
 ]
