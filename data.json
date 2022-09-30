@@ -183,9 +183,6 @@
         "approx.Cost": "1.74 CrRs",
         "website":"https://www.cardekho.com/bmw/m5"
    },
-
-   
-
    {
        "id":19,
         "companyName": "toyota",
@@ -240,8 +237,7 @@
         "mileage": "20.8 kmpl",
         "approx.Cost": "Rs.10.49 - 18.65 Lakh*",
         "website":"https://www.cardekho.com/kia/seltos"
-
-   }
+   },
    {
        "id":25,
         "companyName": "Aston Martin",
@@ -250,7 +246,17 @@
         "mileage": "9-12kmpl",
         "approx.Cost": "3.2 CrRs",
         "website":"https://www.autocarindia.com/car-news/aston-martin-unveils-limited-edition-valkyrie-spider-421736#:~:text=The%20British%20brand's%20most%20recent,crore%20(ex%2Dshowroom)."
+   },
+   {
+        "id":26,
+        "companyName": "bmw",
+        "category": "Car",
+        "modelName":"A3",
+        "mileage": "9.18kmpl",
+        "approx.Cost": "2.6CrRs",
+        "website":"https://www.cardekho.com/bmw/m5"
    }
+
    
 
 
