@@ -103,5 +103,14 @@
         "mileage": "9-11kmpl",
         "approx.Cost": "45 lakhs",
         "website":"https://www.cardekho.com/volvo/xc40"
+    },
+    {
+        "id":15,
+        "companyName": "BMW",
+        "category": "Car",
+        "modelName":"XC40"         ,
+        "mileage": "11kmpl",
+        "approx.Cost": "100 lakhs",
+        "website":"https://www.cardekho.com/volvo/xc40"
     }
 ]
