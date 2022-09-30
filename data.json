@@ -497,10 +497,15 @@
         "mileage": "12kmpl",
         "approx.Cost": "42 CrRs",
         "website":"https://www.carmodel.com/trademark/apex-replicas?enc=1"
+   },
+    {
+       "id":53,
+        "companyName": "Renault",
+        "category": "Car",
+        "modelName":" Renault KWID",
+        "mileage": "22.25 kmpl",
+        "approx.Cost": "4.64 lakhs",
+        "website":"https://www.cardekho.com/carmodels/Renault/Renault_KWID"
    } 
-
-
-
-
 ]
 
