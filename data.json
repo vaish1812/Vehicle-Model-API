@@ -182,9 +182,18 @@
         "mileage": "9.12kmpl",
         "approx.Cost": "1.74 CrRs",
         "website":"https://www.cardekho.com/bmw/m5"
-   }, 
+   },
    {
        "id":19,
+        "companyName": "toyota",
+        "category": "Car",
+        "modelName":"ss",
+        "mileage": "9.12kmpl",
+        "approx.Cost": "1.1 CrRs",
+        "website":"https://www.cardekho.com/bmw/m5"
+   }, 
+   {
+       "id":20,
         "companyName": "MERCEDES-BENZ",
         "category": "car",
         "modelName":"GLA",
@@ -193,7 +202,7 @@
         "website":"https://www.carandbike.com/mercedes-benz-cars/gla-class"
    },
    {
-        "id":20,
+        "id":21,
         "companyName": "Toyota",
         "category": "Car",
         "modelName":"2023 GR Supra",
@@ -203,7 +212,7 @@
     },
     {
 
-        "id":21,
+        "id":22,
         "companyName": "Volkswagen",
         "category": "Car",
         "modelName":"Taigun",
@@ -212,7 +221,7 @@
         "website":"https://www.volkswagen.co.in/en/models/taigun.html"
    },
    {
-        "id":22,
+        "id":23,
         "companyName": "Tata",
         "category": "Car",
         "modelName":"nano",
@@ -221,7 +230,7 @@
         "website":"https://www.carwale.com/tata-cars/nano/"
    },
    {
-        "id":23,
+        "id":24,
         "companyName": "Kia",
         "category": "Car",
         "modelName":"Seltos",
@@ -229,15 +238,38 @@
         "approx.Cost": "Rs.10.49 - 18.65 Lakh*",
         "website":"https://www.cardekho.com/kia/seltos"
    },
-       {
-        "id":24,
+
+   {
+       "id":25,
+        "companyName": "Aston Martin",
+        "category": "Car",
+        "modelName":"Valkyrie",
+        "mileage": "9-12kmpl",
+        "approx.Cost": "3.2 CrRs",
+        "website":"https://www.autocarindia.com/car-news/aston-martin-unveils-limited-edition-valkyrie-spider-421736#:~:text=The%20British%20brand's%20most%20recent,crore%20(ex%2Dshowroom)."
+   },
+   {
+        "id":26,
+        "companyName": "bmw",
+        "category": "Car",
+        "modelName":"A3",
+        "mileage": "9.18kmpl",
+        "approx.Cost": "2.6CrRs",
+        "website":"https://www.cardekho.com/bmw/m5"
+   },
+   {
+        "id":27,
         "companyName": "rolls royce",
         "category": "Car",
         "modelName":" phantom",
         "mileage": "9.8 kmpl",
         "approx.Cost": "Rs 8.99 - 10.45 crore",
         "website":"https://www.rolls-roycemotorcars.com/en_GB/showroom/phantom.html"
-   }
+   },
+
+   
+
+
 
 
 
