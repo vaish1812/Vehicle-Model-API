@@ -123,15 +123,7 @@
         "approx.Cost": "2.30 Crore",
         "website":"https://www.audi.in/in/web/en/customer-area/service-warranty/audi-campaign/campaign-r8.html"
     },
-    {
-        "id":13,
-        "companyName": "Mahindra",
-        "category": "car",
-        "modelName":"XUV700 ",
-        "mileage": "27kmpl",
-        "approx.Cost": "13.45 lack onwards",
-        "website":"https://www.carwale.com/mahindra-cars/xuv700/"
-    },
+    
     
     {
         "id":14,
@@ -152,7 +144,10 @@
         "mileage": "12kmpl",
         "approx.Cost": "2.85-2.99 lakh Rs",
         "website":"https://www.bikewale.com/bmw-bikes/g-310-r/"
+
     },
+
+
     {
         "id":16,
         "companyName": "maruti suzuki",
@@ -162,6 +157,7 @@
         "approx.Cost": "20 lakhs",
         "website":"https://www.cardekho.com/hyundai/creta"
     },
+
 
 
     {
@@ -174,6 +170,7 @@
         "website":"https://www.ford.com/cars/mustang/models/shelby-gt-500/"
    },
 
+
    {
         "id":18,
         "companyName": "BMW",
@@ -183,7 +180,9 @@
         "approx.Cost": "1.74 CrRs",
         "website":"https://www.cardekho.com/bmw/m5"
    },
-   {
+   
+    
+    {
        "id":19,
         "companyName": "toyota",
         "category": "Car",
@@ -238,7 +237,6 @@
         "approx.Cost": "Rs.10.49 - 18.65 Lakh*",
         "website":"https://www.cardekho.com/kia/seltos"
    },
-
    {
        "id":25,
         "companyName": "Aston Martin",
@@ -257,14 +255,23 @@
         "approx.Cost": "2.6CrRs",
         "website":"https://www.cardekho.com/bmw/m5"
    },
-   {
+    {
         "id":27,
-        "companyName": "rolls royce",
+        "companyName": "Tesla",
         "category": "Car",
-        "modelName":" phantom",
-        "mileage": "9.8 kmpl",
-        "approx.Cost": "Rs 8.99 - 10.45 crore",
-        "website":"https://www.rolls-roycemotorcars.com/en_GB/showroom/phantom.html"
+        "modelName":"Tesla model X",
+        "mileage": "35.418 milespl",
+        "approx.Cost": "2.6CrRs",
+        "website":"https://www.tesla.com/modelx"
+   },
+   {
+        "id":28,
+        "companyName": "Mahindra",
+        "category": "car",
+        "modelName":"XUV700 ",
+        "mileage": "27kmpl",
+        "approx.Cost": "13.45 lack onwards",
+        "website":"https://www.carwale.com/mahindra-cars/xuv700/"
    },
     {
         "id":28,
@@ -275,11 +282,15 @@
         "approx.Cost": "2.85-2.99 lakh Rs",
         "website":"https://www.bikewale.com/bmw-bikes/g-310-r/"
     },
+   {
 
-   
-
-
-
-
+        "id":29,
+        "companyName": "Audi",
+        "category": "Car",
+        "modelName":"e-tron GT",
+        "mileage": "93.4kWh",
+        "approx.Cost": "1.68 CrRs",
+        "website":"https://www.cardekho.com/audi/e-tron-gt"
+   }
 
 ]
