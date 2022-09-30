@@ -16,5 +16,32 @@
         "mileage": "9kmpl",
         "approx.Cost": "1.31 Cr Rs.",
         "website":"https://www.carwale.com/mercedes-benz-cars/g-class/"
+    },
+    {
+        "id":3,
+        "companyName": "Jagur",
+        "category": "Car",
+        "modelName":"Porsche F-TYPE",
+        "mileage": "9-11kmpl",
+        "approx.Cost": "1 crore",
+        "website":"https://www.jaguar.in/jaguar-range/f-type/index.html"
+    },
+    {
+        "id":4,
+        "companyName": "Jagur",
+        "category": "Car",
+        "modelName":"Porsche XF",
+        "mileage": "9-11kmpl",
+        "approx.Cost": "76-80 lakhs",
+        "website":"https://www.jaguar.in/jaguar-range/f-type/index.html"
+    },
+    {
+        "id":5
+        "companyName": "Porsche",
+        "category": "Car",
+        "modelName":"Porsche 911",
+        "mileage": "9-11kmpl",
+        "approx.Cost": "1.72 lakh Rs",
+        "website":"https://www.carwale.com/porsche-cars/911/"
     }
 ]
