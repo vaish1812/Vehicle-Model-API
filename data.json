@@ -295,7 +295,24 @@
         "approx.Cost": "2.6CrRs",
         "website":"https://www.tesla.com/modelx"
    },
-   {
+ 
+       "id":28,
+        "companyName": "TESLA",
+        "category": "Car",
+        "modelName":"x",
+        "mileage": "348 miles",
+        "approx.Cost": "14 lakhsRs",
+        "website":"https://droom.in/tesla-cars/model-x"
+   },
+     {
+        "id":29,
+        "companyName": "VOLVO",
+        "category": "CAR",
+        "modelName":"xc90",
+        "mileage": "36kmpl",
+        "approx.Cost": "92-94 lakhs Rs",
+        "website":"https://www.cardekho.com/volvo/xc-90"
+    },
         "id":28,
         "companyName": "Mahindra",
         "category": "car",
@@ -342,6 +359,7 @@
         "approx.Cost": "3 lakhs",
         "website":"https://www.cardekho.com/carmodels/Tata/Tata_Nano"
    },
+
 
     {
         "id":33,
@@ -410,7 +428,5 @@
         "approx.Cost": "3.74 CrRs",
         "website":"https://www.cardekho.com/bmw/m3"
    } 
-
-
 
 ]
