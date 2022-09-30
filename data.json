@@ -183,7 +183,6 @@
         "approx.Cost": "1.74 CrRs",
         "website":"https://www.cardekho.com/bmw/m5"
    },
-
    {
        "id":19,
         "companyName": "toyota",
@@ -239,7 +238,6 @@
         "approx.Cost": "Rs.10.49 - 18.65 Lakh*",
         "website":"https://www.cardekho.com/kia/seltos"
    },
-
    {
        "id":25,
         "companyName": "Aston Martin",
@@ -258,23 +256,20 @@
         "approx.Cost": "2.6CrRs",
         "website":"https://www.cardekho.com/bmw/m5"
    },
-   {
+    {
         "id":27,
-        "companyName": "rolls royce",
+        "companyName": "Tesla",
         "category": "Car",
-        "modelName":" phantom",
-        "mileage": "9.8 kmpl",
-        "approx.Cost": "Rs 8.99 - 10.45 crore",
-        "website":"https://www.rolls-roycemotorcars.com/en_GB/showroom/phantom.html"
-   },
-   {
-       "id":28,
-        "companyName": "TESLA",
-        "category": "Car",
-        "modelName":"x",
-        "mileage": "348 miles",
-        "approx.Cost": "14 lakhsRs",
-        "website":"https://droom.in/tesla-cars/model-x"
+        "modelName":"Tesla model X",
+        "mileage": "35.418 milespl",
+        "approx.Cost": "2.6CrRs",
+        "website":"https://www.tesla.com/modelx"
    }
+
+
+   
+
+
+
 
 ]
