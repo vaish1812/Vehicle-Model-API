@@ -121,7 +121,7 @@
         "mileage": "12kmpl",
         "approx.Cost": "2.85-2.99 lakh Rs",
         "website":"https://www.bikewale.com/bmw-bikes/g-310-r/"
-    }
+    },
     {
         "id":12,
         "companyName": "maruti suzuki",
@@ -130,7 +130,7 @@
         "mileage": "9-11kmpl",
         "approx.Cost": "20 lakhs",
         "website":"https://www.cardekho.com/hyundai/creta"
-    }
+    },
     
    {
        "id":13,
@@ -140,6 +140,15 @@
         "mileage": "9.12kmpl",
         "approx.Cost": "1.74 CrRs",
         "website":"https://www.cardekho.com/bmw/m5"
+   },
+{
+       "id":14,
+        "companyName": "Honda",
+        "category": "Car",
+        "modelName":"Amaze",
+        "mileage": "25kmpl",
+        "approx.Cost": "6.63 lakhs",
+        "website":"https://www.cardekho.com/honda/amaze"
    }
     
 
