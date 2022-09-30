@@ -33,10 +33,12 @@
         "modelName":"Porsche XF",
         "mileage": "9-11kmpl",
         "approx.Cost": "76-80 lakhs",
-        "website":"https://www.jaguar.in/jaguar-range/f-type/index.html"
+
+        "website:"https://www.jaguar.in/jaguar-range/f-type/index.html"
     },
+    
     {
-        "id":5
+        "id":5,
         "companyName": "Porsche",
         "category": "Car",
         "modelName":"Porsche 911",
@@ -52,5 +54,14 @@
         "mileage": "10kmpl",
         "approx.Cost": "10 lakh rs",
         "website":"https://www.marutisuzuki.com/dzire"
+    },
+    {
+        "id":7,
+        "companyName": "swift",
+        "category": "Car",
+        "modelName":"desir"         ,
+        "mileage": "9-11kmpl",
+        "approx.Cost": "10 lakhs",
+        "website:"https://www.jaguar.in/jaguar-range/f-type/index.html"
     }
 ]
