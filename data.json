@@ -183,7 +183,6 @@
         "approx.Cost": "1.74 CrRs",
         "website":"https://www.cardekho.com/bmw/m5"
    },
-
     {
        "id":14,
         "companyName": "Honda",
@@ -231,6 +230,7 @@
         "website":"https://www.volkswagen.co.in/en/models/taigun.html"
    },
    {
+
         "id":23,
         "companyName": "Tata",
         "category": "Car",
@@ -251,13 +251,44 @@
 
    },
    {
+
         "id":24,
+
         "companyName": "Kia",
         "category": "Car",
         "modelName":"Seltos",
         "mileage": "20.8 kmpl",
         "approx.Cost": "Rs.10.49 - 18.65 Lakh*",
         "website":"https://www.cardekho.com/kia/seltos"
+
+   },
+    {
+        "id":22,
+        "companyName": "Maruti 800",
+        "category": "Car",
+        "modelName":"Maruti 800",
+        "mileage": "20.8 kmpl",
+        "approx.Cost": "Rs.10.49 - 1.65 Lakh*",
+        "website":"https://www.cardekho.com/maruti/800"
+   },
+    {
+        "id":23,
+        "companyName": "Mercedes",
+        "category": "Car",
+        "modelName":"M7",
+        "mileage": "10.8 kmpl",
+        "approx.Cost": "Rs.10.49 - 48.65 Lakh*",
+        "website":"https://www.cardekho.com/mercedes"
+   },
+    {
+        "id":24,
+        "companyName": "Bajaj Discover",
+        "category": "Bike",
+        "modelName":"Seltos",
+        "mileage": "20.8 kmpl",
+        "approx.Cost": "Rs.10.49 - 18.65 Lakh*",
+        "website":"https://www.bikewala.com/Discover"
+
 
    },
     
