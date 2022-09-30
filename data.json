@@ -157,7 +157,7 @@
         "id":16,
         "companyName": "maruti suzuki",
         "category": "Car",
-        "modelName":"creta"         ,
+        "modelName":"creta",
         "mileage": "9-11kmpl",
         "approx.Cost": "20 lakhs",
         "website":"https://www.cardekho.com/hyundai/creta"
@@ -168,7 +168,7 @@
         "id":17,
         "companyName": "Shelby",
         "category": "Car",
-        "modelName":"GT500"         ,
+        "modelName":"GT500",
         "mileage": "12-18 mpg",
         "approx.Cost": "2 Cr",
         "website":"https://www.ford.com/cars/mustang/models/shelby-gt-500/"
@@ -182,10 +182,18 @@
         "mileage": "9.12kmpl",
         "approx.Cost": "1.74 CrRs",
         "website":"https://www.cardekho.com/bmw/m5"
+   }, 
+   {
+       "id":19,
+        "companyName": "MERCEDES-BENZ",
+        "category": "car",
+        "modelName":"GLA",
+        "mileage": "13 TO 17 kmpl",
+        "approx.Cost": "48.90 LAKH",
+        "website":"https://www.carandbike.com/mercedes-benz-cars/gla-class"
    },
    {
-
-       "id":19,
+        "id":20,
         "companyName": "Toyota",
         "category": "Car",
         "modelName":"2023 GR Supra",
@@ -195,7 +203,7 @@
     },
     {
 
-        "id":20,
+        "id":21,
         "companyName": "Volkswagen",
         "category": "Car",
         "modelName":"Taigun",
@@ -204,7 +212,7 @@
         "website":"https://www.volkswagen.co.in/en/models/taigun.html"
    },
    {
-        "id":21,
+        "id":22,
         "companyName": "Tata",
         "category": "Car",
         "modelName":"nano",
@@ -213,7 +221,7 @@
         "website":"https://www.carwale.com/tata-cars/nano/"
    },
    {
-        "id":22,
+        "id":23,
         "companyName": "Kia",
         "category": "Car",
         "modelName":"Seltos",
@@ -222,6 +230,7 @@
         "website":"https://www.cardekho.com/kia/seltos"
    }
    
+
 
 
 ]
