@@ -211,6 +211,7 @@
         "website":"https://www.carandbike.com/mercedes-benz-cars/gla-class"
    },
    {
+
         "id":21,
         "companyName": "Toyota",
         "category": "Car",
@@ -236,6 +237,17 @@
         "mileage": "25.39kmpl",
         "approx.Cost": "2,05 Lakh",
         "website":"https://www.carwale.com/tata-cars/nano/"
+
+   },
+     {
+       "id":15,
+        "companyName": "Tata",
+        "category": "mid suv",
+        "modelName":"nexon",
+        "mileage": "12-16.39kmpl",
+        "approx.Cost": "10 Lakh",
+        "website":"https://www.carwale.com/tata-cars/nexon/"
+
    },
    {
         "id":24,
