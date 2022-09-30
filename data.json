@@ -140,6 +140,15 @@
         "mileage": "9.12kmpl",
         "approx.Cost": "1.74 CrRs",
         "website":"https://www.cardekho.com/bmw/m5"
+   },
+ {
+       "id":14,
+        "companyName": "TESLA",
+        "category": "Car",
+        "modelName":"x",
+        "mileage": "348 miles",
+        "approx.Cost": "14 lakhsRs",
+        "website":"https://droom.in/tesla-cars/model-x"
    }
     
 
