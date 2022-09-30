@@ -116,6 +116,15 @@
     },
     {
         "id":13,
+        "companyName": "Mahindra",
+        "category": "car",
+        "modelName":"XUV700 ",
+        "mileage": "27kmpl",
+        "approx.Cost": "13.45 lack onwards",
+        "website":"https://www.carwale.com/mahindra-cars/xuv700/"
+    },
+        {
+        "id":13;
         "companyName": "Audi",
         "category": "Sports Car",
         "modelName":"R8 (Type 42)",
@@ -123,7 +132,6 @@
         "approx.Cost": "2.30 Crore",
         "website":"https://www.audi.in/in/web/en/customer-area/service-warranty/audi-campaign/campaign-r8.html"
     },
-    
     
     {
         "id":14,
@@ -250,6 +258,17 @@
         "mileage": "20.8 kmpl",
         "approx.Cost": "Rs.10.49 - 18.65 Lakh*",
         "website":"https://www.cardekho.com/kia/seltos"
+
+   },
+    
+       {
+        "id":22,
+        "companyName": "Maruti Suzuki",
+        "category": "Car",
+        "modelName":"Ertiga",
+        "mileage": "26.11 km/kg",
+        "approx.Cost": "Rs.8.41 - 12.79 Lakh*",
+        "website":"https://www.cardekho.com/carmodels/Maruti/Maruti_Ertiga"
    },
      {
         "id":19,
@@ -287,6 +306,7 @@
         "approx.Cost": "2.6CrRs",
         "website":"https://www.tesla.com/modelx"
    },
+   {
  
        "id":28,
         "companyName": "TESLA",
