@@ -123,15 +123,7 @@
         "approx.Cost": "2.30 Crore",
         "website":"https://www.audi.in/in/web/en/customer-area/service-warranty/audi-campaign/campaign-r8.html"
     },
-    {
-        "id":13,
-        "companyName": "Mahindra",
-        "category": "car",
-        "modelName":"XUV700 ",
-        "mileage": "27kmpl",
-        "approx.Cost": "13.45 lack onwards",
-        "website":"https://www.carwale.com/mahindra-cars/xuv700/"
-    },
+    
     
     {
         "id":14,
@@ -152,27 +144,32 @@
         "mileage": "12kmpl",
         "approx.Cost": "2.85-2.99 lakh Rs",
         "website":"https://www.bikewale.com/bmw-bikes/g-310-r/"
+
     },
+
+
     {
         "id":16,
         "companyName": "maruti suzuki",
         "category": "Car",
-        "modelName":"creta"         ,
+        "modelName":"creta",
         "mileage": "9-11kmpl",
         "approx.Cost": "20 lakhs",
         "website":"https://www.cardekho.com/hyundai/creta"
     },
 
 
+
     {
         "id":17,
         "companyName": "Shelby",
         "category": "Car",
-        "modelName":"GT500"         ,
+        "modelName":"GT500",
         "mileage": "12-18 mpg",
         "approx.Cost": "2 Cr",
         "website":"https://www.ford.com/cars/mustang/models/shelby-gt-500/"
    },
+
 
    {
         "id":18,
@@ -183,9 +180,28 @@
         "approx.Cost": "1.74 CrRs",
         "website":"https://www.cardekho.com/bmw/m5"
    },
-   {
-
+   
+    
+    {
        "id":19,
+        "companyName": "toyota",
+        "category": "Car",
+        "modelName":"ss",
+        "mileage": "9.12kmpl",
+        "approx.Cost": "1.1 CrRs",
+        "website":"https://www.cardekho.com/bmw/m5"
+   }, 
+   {
+       "id":20,
+        "companyName": "MERCEDES-BENZ",
+        "category": "car",
+        "modelName":"GLA",
+        "mileage": "13 TO 17 kmpl",
+        "approx.Cost": "48.90 LAKH",
+        "website":"https://www.carandbike.com/mercedes-benz-cars/gla-class"
+   },
+   {
+        "id":21,
         "companyName": "Toyota",
         "category": "Car",
         "modelName":"2023 GR Supra",
@@ -195,7 +211,7 @@
     },
     {
 
-        "id":20,
+        "id":22,
         "companyName": "Volkswagen",
         "category": "Car",
         "modelName":"Taigun",
@@ -204,7 +220,7 @@
         "website":"https://www.volkswagen.co.in/en/models/taigun.html"
    },
    {
-        "id":21,
+        "id":23,
         "companyName": "Tata",
         "category": "Car",
         "modelName":"nano",
@@ -213,7 +229,7 @@
         "website":"https://www.carwale.com/tata-cars/nano/"
    },
    {
-        "id":22,
+        "id":24,
         "companyName": "Kia",
         "category": "Car",
         "modelName":"Seltos",
@@ -221,8 +237,55 @@
         "approx.Cost": "Rs.10.49 - 18.65 Lakh*",
         "website":"https://www.cardekho.com/kia/seltos"
    },
-     {
+
+   {
+       "id":25,
+        "companyName": "Aston Martin",
+        "category": "Car",
+        "modelName":"Valkyrie",
+        "mileage": "9-12kmpl",
+        "approx.Cost": "3.2 CrRs",
+        "website":"https://www.autocarindia.com/car-news/aston-martin-unveils-limited-edition-valkyrie-spider-421736#:~:text=The%20British%20brand's%20most%20recent,crore%20(ex%2Dshowroom)."
+   },
+   {
         "id":26,
+        "companyName": "bmw",
+        "category": "Car",
+        "modelName":"A3",
+        "mileage": "9.18kmpl",
+        "approx.Cost": "2.6CrRs",
+        "website":"https://www.cardekho.com/bmw/m5"
+   },
+    {
+        "id":27,
+        "companyName": "Tesla",
+        "category": "Car",
+        "modelName":"Tesla model X",
+        "mileage": "35.418 milespl",
+        "approx.Cost": "2.6CrRs",
+        "website":"https://www.tesla.com/modelx"
+   },
+   {
+        "id":28,
+        "companyName": "Mahindra",
+        "category": "car",
+        "modelName":"XUV700 ",
+        "mileage": "27kmpl",
+        "approx.Cost": "13.45 lack onwards",
+        "website":"https://www.carwale.com/mahindra-cars/xuv700/"
+   },
+   {
+
+        "id":29,
+        "companyName": "Audi",
+        "category": "Car",
+        "modelName":"e-tron GT",
+        "mileage": "93.4kWh",
+        "approx.Cost": "1.68 CrRs",
+        "website":"https://www.cardekho.com/audi/e-tron-gt"
+   },
+{
+        "id":30,
         "companyName": "Maruti",
         "category": "Car",
         "modelName":"Baleno",
@@ -231,6 +294,9 @@
         "website":"https://www.cardekho.com/carmodels/Maruti/Maruti_Baleno"
     }
    
+
+
+
 
 
 ]
