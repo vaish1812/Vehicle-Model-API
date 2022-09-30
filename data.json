@@ -73,14 +73,35 @@
         "approx.Cost": "30 lakhs",
         "website":"https://www.cardekho.com/volvo/xc-90"
     },
+
     
     {
         "id":9,
         "companyName": "Maruti 800",
         "category": "Car",
         "modelName":"800"         ,
-        "mileage": "4-5 kmplmil",
+        "mileage": "4-5 kmpl",
         "approx.Cost": "2 lakhs",
         "website":"https://www.cardekho.com/carmodels/Maruti/Maruti_800"
+    },
+
+    {
+        "id":10,
+        "companyName": "Suzuki",
+        "category": "Car",
+        "modelName":"Wagon R"         ,
+        "mileage": "25-30 kmpl",
+        "approx.Cost": "5-7 lakhs",
+        "website":"https://www.cardekho.com/maruti/wagon-r"
+    },
+       
+    {
+        "id":11,
+        "companyName": "Volvo",
+        "category": "Car",
+        "modelName":"XC40"         ,
+        "mileage": "9-11kmpl",
+        "approx.Cost": "45 lakhs",
+        "website":"https://www.cardekho.com/volvo/xc40"
     }
 ]
