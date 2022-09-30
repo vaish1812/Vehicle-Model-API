@@ -9,12 +9,30 @@
         "website":"https://www.bikewale.com/bmw-bikes/g-310-r/"
     },
     {
-        "id":3,
+        "id":2,
         "companyName": "Porsche",
         "category": "Car",
         "modelName":"Porsche 911",
         "mileage": "9-11kmpl",
         "approx.Cost": "1.72 lakh Rs",
         "website":"https://www.carwale.com/porsche-cars/911/"
+    },
+    {
+        "id":3,
+        "companyName": "Jagur",
+        "category": "Car",
+        "modelName":"Porsche F-TYPE",
+        "mileage": "9-11kmpl",
+        "approx.Cost": "1 crore",
+        "website":"https://www.jaguar.in/jaguar-range/f-type/index.html"
+    },
+    {
+        "id":4,
+        "companyName": "Jagur",
+        "category": "Car",
+        "modelName":"Porsche XF",
+        "mileage": "9-11kmpl",
+        "approx.Cost": "76-80 lakhs",
+        "website":"https://www.jaguar.in/jaguar-range/f-type/index.html"
     }
 ]
