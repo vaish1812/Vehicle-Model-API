@@ -299,6 +299,15 @@
         "mileage": "10kmpl",
         "approx.Cost": "2.34 CrRs",
         "website":"https://www.cardekho.com/bmw/m5"
+   },
+   {
+       "id":32,
+        "companyName": "Mahindra",
+        "category": "Truck",
+        "modelName":"Scorpio-N",
+        "mileage": "10kmpl",
+        "approx.Cost": "11-13 lakhs",
+        "website":"https://www.carwale.com/mahindra-cars/scorpio/"
    }
 
 ]
