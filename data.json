@@ -104,4 +104,13 @@
         "approx.Cost": "45 lakhs",
         "website":"https://www.cardekho.com/volvo/xc40"
     }
+        {
+        "id":12,
+        "companyName": "maruti suzuki",
+        "category": "Car",
+        "modelName":"creta"         ,
+        "mileage": "9-11kmpl",
+        "approx.Cost": "20 lakhs",
+        "website":"https://www.cardekho.com/hyundai/creta"
+    }
 ]
