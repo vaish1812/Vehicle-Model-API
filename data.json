@@ -116,15 +116,6 @@
     },
     {
         "id":13,
-        "companyName": "Audi",
-        "category": "Sports Car",
-        "modelName":"R8 (Type 42)",
-        "mileage": " 5.71 kmpl",
-        "approx.Cost": "2.30 Crore",
-        "website":"https://www.audi.in/in/web/en/customer-area/service-warranty/audi-campaign/campaign-r8.html"
-    },
-    {
-        "id":13,
         "companyName": "Mahindra",
         "category": "car",
         "modelName":"XUV700 ",
@@ -184,18 +175,7 @@
         "website":"https://www.cardekho.com/bmw/m5"
    },
    {
-
-       "id":19,
-        "companyName": "Toyota",
-        "category": "Car",
-        "modelName":"2023 GR Supra",
-        "mileage": "11 kmpl",
-        "approx.Cost": "36 lakhs",
-        "website":"https://www.toyota.com/grsupra/"
-    },
-    {
-
-        "id":20,
+        "id":19,
         "companyName": "Volkswagen",
         "category": "Car",
         "modelName":"Taigun",
@@ -204,7 +184,7 @@
         "website":"https://www.volkswagen.co.in/en/models/taigun.html"
    },
    {
-        "id":21,
+        "id":20,
         "companyName": "Tata",
         "category": "Car",
         "modelName":"nano",
@@ -213,15 +193,41 @@
         "website":"https://www.carwale.com/tata-cars/nano/"
    },
    {
-        "id":22,
+        "id":21,
         "companyName": "Kia",
         "category": "Car",
         "modelName":"Seltos",
         "mileage": "20.8 kmpl",
         "approx.Cost": "Rs.10.49 - 18.65 Lakh*",
         "website":"https://www.cardekho.com/kia/seltos"
+   },
+    {
+        "id":22,
+        "companyName": "Maruti 800",
+        "category": "Car",
+        "modelName":"Maruti 800",
+        "mileage": "20.8 kmpl",
+        "approx.Cost": "Rs.10.49 - 1.65 Lakh*",
+        "website":"https://www.cardekho.com/maruti/800"
+   },
+    {
+        "id":23,
+        "companyName": "Mercedes",
+        "category": "Car",
+        "modelName":"M7",
+        "mileage": "10.8 kmpl",
+        "approx.Cost": "Rs.10.49 - 48.65 Lakh*",
+        "website":"https://www.cardekho.com/mercedes"
+   },
+    {
+        "id":24,
+        "companyName": "Bajaj Discover",
+        "category": "Bike",
+        "modelName":"Seltos",
+        "mileage": "20.8 kmpl",
+        "approx.Cost": "Rs.10.49 - 18.65 Lakh*",
+        "website":"https://www.bikewala.com/Discover"
    }
    
-
 
 ]
