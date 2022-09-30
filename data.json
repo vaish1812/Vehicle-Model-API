@@ -167,6 +167,15 @@
         "mileage": "20.8 kmpl",
         "approx.Cost": "Rs.10.49 - 18.65 Lakh*",
         "website":"https://www.cardekho.com/kia/seltos"
+   },
+     {
+        "id":19,
+        "companyName": "mahindra",
+        "category": "Car",
+        "modelName":"Thar",
+        "mileage": "15.2 kmpl",
+        "approx.Cost": "Rs.13.53 - 16.03 Lakh*",
+        "website":"https://www.carwale.com/mahindra-cars/thar/"
    }
     
 
