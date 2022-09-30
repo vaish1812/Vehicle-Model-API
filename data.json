@@ -268,6 +268,15 @@
         "approx.Cost": "Rs.10.49 - 18.65 Lakh*",
         "website":"https://www.cardekho.com/kia/seltos"
    },
+     {
+        "id":19,
+        "companyName": "mahindra",
+        "category": "Car",
+        "modelName":"Thar",
+        "mileage": "15.2 kmpl",
+        "approx.Cost": "Rs.13.53 - 16.03 Lakh*",
+        "website":"https://www.carwale.com/mahindra-cars/thar/"
+   },
    {
        "id":25,
         "companyName": "Aston Martin",
@@ -313,6 +322,7 @@
         "approx.Cost": "92-94 lakhs Rs",
         "website":"https://www.cardekho.com/volvo/xc-90"
     },
+    {
         "id":28,
         "companyName": "Mahindra",
         "category": "car",
@@ -379,8 +389,6 @@
         "mileage": "9.12kmpl",
         "approx.Cost": "1.74 CrRs",
         "website":"https://www.cardekho.com/tata/harrier"
-
-
    },
    {
         "id":35,
