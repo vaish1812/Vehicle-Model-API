@@ -72,5 +72,15 @@
         "mileage": "9-11kmpl",
         "approx.Cost": "30 lakhs",
         "website":"https://www.cardekho.com/volvo/xc-90"
+    },
+    
+    {
+        "id":9,
+        "companyName": "Maruti 800",
+        "category": "Car",
+        "modelName":"800"         ,
+        "mileage": "4-5 kmplmil",
+        "approx.Cost": "2 lakhs",
+        "website":"https://www.cardekho.com/carmodels/Maruti/Maruti_800"
     }
 ]
