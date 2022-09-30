@@ -121,7 +121,7 @@
         "mileage": "12kmpl",
         "approx.Cost": "2.85-2.99 lakh Rs",
         "website":"https://www.bikewale.com/bmw-bikes/g-310-r/"
-    }
+    },
     {
         "id":12,
         "companyName": "maruti suzuki",
@@ -130,7 +130,7 @@
         "mileage": "9-11kmpl",
         "approx.Cost": "20 lakhs",
         "website":"https://www.cardekho.com/hyundai/creta"
-    }
+    },
     
    {
        "id":13,
@@ -140,7 +140,15 @@
         "mileage": "9.12kmpl",
         "approx.Cost": "1.74 CrRs",
         "website":"https://www.cardekho.com/bmw/m5"
-   }
-    
+   },
+   {
+       "id":15,
+        "companyName": "Volkswagen",
+        "category": "Car",
+        "modelName":"Taigun",
+        "mileage": "18 kmpl",
+        "approx.Cost": "20 lakhs",
+        "website":"https://www.volkswagen.co.in/en/models/taigun.html"
+   } 
 
 ]
