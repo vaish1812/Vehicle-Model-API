@@ -1,10 +1,10 @@
 [
     {
-        "id":1,
-        "companyName": "BMW",
-        "category": "Bike",
-        "modelName":"G 310R",
-        "mileage": "32kmpl",
+        "id":10000,
+        "companyName": "Mustang",
+        "category": "Car",
+        "modelName":"CDS10",
+        "mileage": "5kmpl",
         "approx.Cost": "2.85-2.99 lakh Rs",
         "website":"https://www.bikewale.com/bmw-bikes/g-310-r/"
     },
