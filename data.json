@@ -73,4 +73,14 @@
         "approx.Cost": "30 lakhs",
         "website":"https://www.cardekho.com/volvo/xc-90"
     }
+    ,
+    {
+        "id":9,
+        "companyName": "Shelby",
+        "category": "Car",
+        "modelName":"GT500"         ,
+        "mileage": "12-18 mpg",
+        "approx.Cost": "2 Cr",
+        "website":"https://www.ford.com/cars/mustang/models/shelby-gt-500/"
+    }
 ]
