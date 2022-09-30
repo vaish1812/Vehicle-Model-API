@@ -237,7 +237,6 @@
         "approx.Cost": "Rs.10.49 - 18.65 Lakh*",
         "website":"https://www.cardekho.com/kia/seltos"
    },
-
    {
        "id":25,
         "companyName": "Aston Martin",
@@ -274,6 +273,15 @@
         "approx.Cost": "13.45 lack onwards",
         "website":"https://www.carwale.com/mahindra-cars/xuv700/"
    },
+    {
+        "id":28,
+        "companyName": "BMW",
+        "category": "Bike",
+        "modelName":"G 310R",
+        "mileage": "32kmpl",
+        "approx.Cost": "2.85-2.99 lakh Rs",
+        "website":"https://www.bikewale.com/bmw-bikes/g-310-r/"
+    },
    {
 
         "id":29,
@@ -283,20 +291,6 @@
         "mileage": "93.4kWh",
         "approx.Cost": "1.68 CrRs",
         "website":"https://www.cardekho.com/audi/e-tron-gt"
-   },
-{
-        "id":30,
-        "companyName": "Maruti",
-        "category": "Car",
-        "modelName":"Baleno",
-        "mileage": "22.24kmpl",
-        "approx.Cost": "6.5-10 lakh Rs",
-        "website":"https://www.cardekho.com/carmodels/Maruti/Maruti_Baleno"
-    }
-   
-
-
-
-
+   }
 
 ]
