@@ -116,15 +116,6 @@
     },
     {
         "id":13,
-        "companyName": "Audi",
-        "category": "Sports Car",
-        "modelName":"R8 (Type 42)",
-        "mileage": " 5.71 kmpl",
-        "approx.Cost": "2.30 Crore",
-        "website":"https://www.audi.in/in/web/en/customer-area/service-warranty/audi-campaign/campaign-r8.html"
-    },
-    {
-        "id":13,
         "companyName": "Mahindra",
         "category": "car",
         "modelName":"XUV700 ",
@@ -210,7 +201,16 @@
         "approx.Cost": "Rs.10.49 - 18.65 Lakh*",
         "website":"https://www.cardekho.com/kia/seltos"
    }
+    
+       {
+        "id":22,
+        "companyName": "Maruti Suzuki",
+        "category": "Car",
+        "modelName":"Ertiga",
+        "mileage": "26.11 km/kg",
+        "approx.Cost": "Rs.8.41 - 12.79 Lakh*",
+        "website":"https://www.cardekho.com/carmodels/Maruti/Maruti_Ertiga"
+   }
    
-
 
 ]
