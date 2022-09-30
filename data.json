@@ -140,6 +140,15 @@
         "mileage": "9.12kmpl",
         "approx.Cost": "1.74 CrRs",
         "website":"https://www.cardekho.com/bmw/m5"
+   },
+{
+       "id":116,
+        "companyName": "bmw",
+        "category": "Car",
+        "modelName":"A3",
+        "mileage": "9.18kmpl",
+        "approx.Cost": "2.6CrRs",
+        "website":"https://www.cardekho.com/bmw/m5"
    }
     
 
