@@ -220,7 +220,16 @@
         "mileage": "20.8 kmpl",
         "approx.Cost": "Rs.10.49 - 18.65 Lakh*",
         "website":"https://www.cardekho.com/kia/seltos"
-   }
+   },
+     {
+        "id":26,
+        "companyName": "Maruti",
+        "category": "Car",
+        "modelName":"Baleno",
+        "mileage": "22.24kmpl",
+        "approx.Cost": "6.5-10 lakh Rs",
+        "website":"https://www.cardekho.com/carmodels/Maruti/Maruti_Baleno"
+    }
    
 
 
