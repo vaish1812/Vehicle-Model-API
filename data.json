@@ -124,7 +124,7 @@
         "website":"https://www.carwale.com/mahindra-cars/xuv700/"
     },
         {
-        "id":13;
+        "id":14,
         "companyName": "Audi",
         "category": "Sports Car",
         "modelName":"R8 (Type 42)",
@@ -134,7 +134,7 @@
     },
     
     {
-        "id":14,
+        "id":15,
         "companyName": "BYD",
         "category": "e-car",
         "modelName":"e6",
@@ -145,7 +145,7 @@
 
     
     {
-        "id":15,
+        "id":16,
         "companyName": "maruti",
         "category": "car",
         "modelName":"800",
@@ -156,7 +156,7 @@
     
 
     {
-        "id":16,
+        "id":17,
         "companyName": "maruti suzuki",
         "category": "Car",
         "modelName":"creta",
@@ -165,7 +165,7 @@
         "website":"https://www.cardekho.com/hyundai/creta"
     },
     {
-        "id":17,
+        "id":18,
         "companyName": "Shelby",
         "category": "Car",
         "modelName":"GT500",
@@ -175,7 +175,7 @@
    },
 
    {
-        "id":18,
+        "id":19,
         "companyName": "BMW",
         "category": "Car",
         "modelName":"M5",
@@ -183,9 +183,8 @@
         "approx.Cost": "1.74 CrRs",
         "website":"https://www.cardekho.com/bmw/m5"
    },
-
     {
-       "id":14,
+       "id":20,
         "companyName": "Honda",
         "category": "Car",
         "modelName":"Amaze",
@@ -194,7 +193,7 @@
         "website":"https://www.cardekho.com/honda/amaze"
    },
    {
-       "id":19,
+       "id":21,
         "companyName": "toyota",
         "category": "Car",
         "modelName":"ss",
@@ -203,7 +202,7 @@
         "website":"https://www.cardekho.com/bmw/m5"
    }, 
    {
-       "id":20,
+       "id":22,
         "companyName": "MERCEDES-BENZ",
         "category": "car",
         "modelName":"GLA",
@@ -213,7 +212,7 @@
    },
    {
 
-        "id":21,
+        "id":23,
         "companyName": "Toyota",
         "category": "Car",
         "modelName":"2023 GR Supra",
@@ -222,7 +221,7 @@
         "website":"https://www.toyota.com/grsupra/"
     },
     {
-        "id":22,
+        "id":24,
         "companyName": "Volkswagen",
         "category": "Car",
         "modelName":"Taigun",
@@ -231,7 +230,8 @@
         "website":"https://www.volkswagen.co.in/en/models/taigun.html"
    },
    {
-        "id":23,
+
+        "id":25,
         "companyName": "Tata",
         "category": "Car",
         "modelName":"nano",
@@ -241,7 +241,7 @@
 
    },
      {
-       "id":15,
+       "id":26,
         "companyName": "Tata",
         "category": "mid suv",
         "modelName":"nexon",
@@ -251,7 +251,9 @@
 
    },
    {
-        "id":24,
+
+        "id":27,
+
         "companyName": "Kia",
         "category": "Car",
         "modelName":"Seltos",
@@ -260,9 +262,38 @@
         "website":"https://www.cardekho.com/kia/seltos"
 
    },
+    {
+        "id":28,
+        "companyName": "Maruti 800",
+        "category": "Car",
+        "modelName":"Maruti 800",
+        "mileage": "20.8 kmpl",
+        "approx.Cost": "Rs.10.49 - 1.65 Lakh*",
+        "website":"https://www.cardekho.com/maruti/800"
+   },
+    {
+        "id":29,
+        "companyName": "Mercedes",
+        "category": "Car",
+        "modelName":"M7",
+        "mileage": "10.8 kmpl",
+        "approx.Cost": "Rs.10.49 - 48.65 Lakh*",
+        "website":"https://www.cardekho.com/mercedes"
+   },
+    {
+        "id":30,
+        "companyName": "Bajaj Discover",
+        "category": "Bike",
+        "modelName":"Seltos",
+        "mileage": "20.8 kmpl",
+        "approx.Cost": "Rs.10.49 - 18.65 Lakh*",
+        "website":"https://www.bikewala.com/Discover"
+
+
+   },
     
        {
-        "id":22,
+        "id":31,
         "companyName": "Maruti Suzuki",
         "category": "Car",
         "modelName":"Ertiga",
@@ -271,7 +302,7 @@
         "website":"https://www.cardekho.com/carmodels/Maruti/Maruti_Ertiga"
    },
      {
-        "id":19,
+        "id":32,
         "companyName": "mahindra",
         "category": "Car",
         "modelName":"Thar",
@@ -280,7 +311,7 @@
         "website":"https://www.carwale.com/mahindra-cars/thar/"
    },
    {
-       "id":25,
+       "id":33,
         "companyName": "Aston Martin",
         "category": "Car",
         "modelName":"Valkyrie",
@@ -289,7 +320,7 @@
         "website":"https://www.autocarindia.com/car-news/aston-martin-unveils-limited-edition-valkyrie-spider-421736#:~:text=The%20British%20brand's%20most%20recent,crore%20(ex%2Dshowroom)."
    },
    {
-        "id":26,
+        "id":34,
         "companyName": "bmw",
         "category": "Car",
         "modelName":"A3",
@@ -298,7 +329,7 @@
         "website":"https://www.cardekho.com/bmw/m5"
    },
     {
-        "id":27,
+        "id":35,
         "companyName": "Tesla",
         "category": "Car",
         "modelName":"Tesla model X",
@@ -308,7 +339,7 @@
    },
    {
  
-       "id":28,
+       "id":36,
         "companyName": "TESLA",
         "category": "Car",
         "modelName":"x",
@@ -317,7 +348,7 @@
         "website":"https://droom.in/tesla-cars/model-x"
    },
      {
-        "id":29,
+        "id":37,
         "companyName": "VOLVO",
         "category": "CAR",
         "modelName":"xc90",
@@ -326,7 +357,7 @@
         "website":"https://www.cardekho.com/volvo/xc-90"
     },
     {
-        "id":28,
+        "id":38,
         "companyName": "Mahindra",
         "category": "car",
         "modelName":"XUV700 ",
@@ -335,7 +366,7 @@
         "website":"https://www.carwale.com/mahindra-cars/xuv700/"
    },
     {
-        "id":28,
+        "id":39,
         "companyName": "BMW",
         "category": "Bike",
         "modelName":"G 310R",
@@ -345,7 +376,7 @@
     },
    {
 
-        "id":29,
+        "id":40,
         "companyName": "Audi",
         "category": "Car",
         "modelName":"e-tron GT",
@@ -354,7 +385,7 @@
         "website":"https://www.cardekho.com/audi/e-tron-gt"
    },
    {
-        "id":30,
+        "id":41,
         "companyName": "MG Hector",
         "category": "Car",
         "modelName":"HECTOR DIESEL 2.0 MT STYLE BSVI",
@@ -364,7 +395,7 @@
    },
 
    {
-       "id":32,
+       "id":42,
         "companyName": "Nano",
         "category": "Car",
         "modelName":"tata",
@@ -375,7 +406,7 @@
 
 
     {
-        "id":33,
+        "id":43,
         "companyName": "maruti suzuki",
         "category": "car",
         "modelName":"850",
@@ -385,7 +416,7 @@
     },
     {
 
-       "id":34,
+       "id":44,
         "companyName": "TATA",
         "category": "Car",
         "modelName":"Harrier",
@@ -394,7 +425,7 @@
         "website":"https://www.cardekho.com/tata/harrier"
    },
    {
-        "id":35,
+        "id":45,
         "companyName": "Mahindra",
         "category": "Truck",
         "modelName":"Scorpio-N",
@@ -403,7 +434,7 @@
         "website":"https://www.carwale.com/mahindra-cars/scorpio/"
    },
    {
-        "id":36,
+        "id":46,
         "companyName": "Maruti Wagon R",
         "category": "Car",
         "modelName":"LXI",
@@ -413,7 +444,7 @@
    },
    {
 
-       "id":37,
+       "id":47,
         "companyName": "TVS",
         "category": "Bike",
         "modelName":"Raider 125",
@@ -422,25 +453,35 @@
         "website":"https://www.bikewale.com/tvs-bikes/raider-125/"
   },
   {
-        "id":38,
+        "id":48,
         "companyName": "bajaj",
         "category": "Bike",
         "modelName":"pulsar 220F",
         "mileage": "38 kmpl",
         "approx.Cost": "1.3 lakhs Rs",
         "website":"https://www.bikewale.com/bajaj-bikes/pulsar-220/"
+
+  },
+ {
+        "id":49,
+        "companyName": "pulsur",
+        "category": "mobile",
+        "modelName":"stdt 220F",
+        "mileage": "50 kmpl",
+        "approx.Cost": "1.9 lakhs Rs",
+        "website":"https://www.bikewale.com/pulsar-bikes/pulsar-220/"
   },
   {
-       "id":39,
+       "id":50,
         "companyName": "BMW m3 competition",
         "category": "Car",
         "modelName":"M3",
         "mileage": "9.12kmpl",
         "approx.Cost": "3.74 CrRs",
         "website":"https://www.cardekho.com/bmw/m3"
-   } 
+   } ,
     {
-       "id":40,
+       "id":51,
         "companyName": "Apex Replicas",
         "category": "Car",
         "modelName":" 1:18 Ferrari 458 Italia GT3",
@@ -448,4 +489,8 @@
         "approx.Cost": "42 CrRs",
         "website":"https://www.carmodel.com/trademark/apex-replicas?enc=1"
    } 
+
+
+
+]
 
