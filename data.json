@@ -228,8 +228,16 @@
         "mileage": "20.8 kmpl",
         "approx.Cost": "Rs.10.49 - 18.65 Lakh*",
         "website":"https://www.cardekho.com/kia/seltos"
+   },
+       {
+        "id":24,
+        "companyName": "rolls royce",
+        "category": "Car",
+        "modelName":" phantom",
+        "mileage": "9.8 kmpl",
+        "approx.Cost": "Rs 8.99 - 10.45 crore",
+        "website":"https://www.rolls-roycemotorcars.com/en_GB/showroom/phantom.html"
    }
-   
 
 
 
