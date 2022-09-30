@@ -74,19 +74,9 @@
         "website":"https://www.cardekho.com/volvo/xc-90"
     },
 
-    {
-        "id":9,
-        "companyName": "Hyundai",
-        "category": "Car",
-        "modelName":"Venue"         ,
-        "mileage": "12-15kmpl",
-        "approx.Cost": "15 lakhs",
-        "website":"https://www.cardekho.com/hyundai/venue"
-    },
-
     
     {
-        "id":10,
+        "id":9,
         "companyName": "Maruti 800",
         "category": "Car",
         "modelName":"800"         ,
@@ -96,7 +86,7 @@
     },
 
     {
-        "id":11,
+        "id":10,
         "companyName": "Suzuki",
         "category": "Car",
         "modelName":"Wagon R"         ,
@@ -106,22 +96,21 @@
     },
        
     {
-        "id":12,
+        "id":11,
         "companyName": "Volvo",
         "category": "Car",
         "modelName":"XC40"         ,
         "mileage": "9-11kmpl",
         "approx.Cost": "45 lakhs",
         "website":"https://www.cardekho.com/volvo/xc40"
-
     },
-    {
-        "id":15,
-        "companyName": "BMW",
-        "category": "Car",
-        "modelName":"XC40"         ,
-        "mileage": "11kmpl",
-        "approx.Cost": "100 lakhs",
-        "website":"https://www.cardekho.com/volvo/xc40"
+      {
+        "id":12,
+        "companyName": "Mahindra",
+        "category": " SUV Car",
+        "modelName":"AX 4-STR"         ,
+        "mileage": "9-15kmpl",
+        "approx.Cost": "15 lakhs",
+        "website":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fimgd.aeplcdn.com%2F0x0%2Fn%2Fcw%2Fec%2F40087%2Fthar-exterior-right-front-three-quarter-11.jpeg&imgrefurl=https%3A%2F%2Fwww.carwale.com%2Fmahindra-cars%2Fthar%2F&tbnid=RZz5Fr5nKckqJM&vet=12ahUKEwicof252Lz6AhVM6XMBHfVJC70QMygBegUIARDFAQ..i&docid=AnOOqA3Wy1lLVM&w=1920&h=1080&q=thar%20mahindra%20link&ved=2ahUKEwicof252Lz6AhVM6XMBHfVJC70QMygBegUIARDFAQ"
     }
 ]
