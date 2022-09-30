@@ -275,6 +275,15 @@
         "mileage": "348 miles",
         "approx.Cost": "14 lakhsRs",
         "website":"https://droom.in/tesla-cars/model-x"
-   }
+   },
+     {
+        "id":29,
+        "companyName": "VOLVO",
+        "category": "CAR",
+        "modelName":"xc90",
+        "mileage": "36kmpl",
+        "approx.Cost": "92-94 lakhs Rs",
+        "website":"https://www.cardekho.com/volvo/xc-90"
+    },
 
 ]
