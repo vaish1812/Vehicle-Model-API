@@ -179,8 +179,8 @@
         "mileage": "9.12kmpl",
         "approx.Cost": "1.74 CrRs",
         "website":"https://www.cardekho.com/bmw/m5"
+
    },
-    
     {
        "id":19,
         "companyName": "toyota",
@@ -300,15 +300,26 @@
         "approx.Cost": "2.34 CrRs",
         "website":"https://www.cardekho.com/bmw/m5"
    },
+
+   {
+       "id":32,
+        "companyName": "Nano",
+        "category": "Car",
+        "modelName":"tata",
+        "mileage": "36.0 kmpl,
+        "approx.Cost": "3 lakhs",
+        "website":"https://www.cardekho.com/carmodels/Tata/Tata_Nano"
+   },
+
     {
-        "id":32,
+        "id":33,
         "companyName": "maruti suzuki",
         "category": "car",
         "modelName":"850",
         "mileage": "13kmpl",
         "approx.Cost": "2.85-2.99 lakh Rs",
         "website":"https://www.bikewale.com/bmw-bikes/g-310-r/"
-
     },
+
 
 ]
