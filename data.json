@@ -334,6 +334,16 @@
         "mileage": "9.12kmpl",
         "approx.Cost": "1.74 CrRs",
         "website":"https://www.cardekho.com/tata/harrier"
+
+   },
+   {
+       "id":35,
+        "companyName": "Mahindra",
+        "category": "Truck",
+        "modelName":"Scorpio-N",
+        "mileage": "10kmpl",
+        "approx.Cost": "11-13 lakhs",
+        "website":"https://www.carwale.com/mahindra-cars/scorpio/"
    }
 
 
