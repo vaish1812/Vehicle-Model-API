@@ -184,7 +184,18 @@
         "website":"https://www.cardekho.com/bmw/m5"
    },
    {
-        "id":19,
+
+       "id":19,
+        "companyName": "Toyota",
+        "category": "Car",
+        "modelName":"2023 GR Supra",
+        "mileage": "11 kmpl",
+        "approx.Cost": "36 lakhs",
+        "website":"https://www.toyota.com/grsupra/"
+    },
+    {
+
+        "id":20,
         "companyName": "Volkswagen",
         "category": "Car",
         "modelName":"Taigun",
@@ -193,7 +204,7 @@
         "website":"https://www.volkswagen.co.in/en/models/taigun.html"
    },
    {
-        "id":20,
+        "id":21,
         "companyName": "Tata",
         "category": "Car",
         "modelName":"nano",
@@ -202,7 +213,7 @@
         "website":"https://www.carwale.com/tata-cars/nano/"
    },
    {
-        "id":21,
+        "id":22,
         "companyName": "Kia",
         "category": "Car",
         "modelName":"Seltos",
