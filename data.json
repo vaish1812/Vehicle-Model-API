@@ -79,7 +79,7 @@
         "id":9,
         "companyName": "Maruti 800",
         "category": "Car",
-        "modelName":"800"         ,
+        "modelName":"800",
         "mileage": "4-5 kmpl",
         "approx.Cost": "2 lakhs",
         "website":"https://www.cardekho.com/carmodels/Maruti/Maruti_800"
@@ -89,7 +89,7 @@
         "id":10,
         "companyName": "Suzuki",
         "category": "Car",
-        "modelName":"Wagon R"         ,
+        "modelName":"Wagon R",
         "mileage": "25-30 kmpl",
         "approx.Cost": "5-7 lakhs",
         "website":"https://www.cardekho.com/maruti/wagon-r"
@@ -121,19 +121,27 @@
         "mileage": "12kmpl",
         "approx.Cost": "2.85-2.99 lakh Rs",
         "website":"https://www.bikewale.com/bmw-bikes/g-310-r/"
-    }
+    },
     {
-        "id":12,
+        "id":14,
         "companyName": "maruti suzuki",
         "category": "Car",
         "modelName":"creta"         ,
         "mileage": "9-11kmpl",
         "approx.Cost": "20 lakhs",
         "website":"https://www.cardekho.com/hyundai/creta"
-    }
-    
+    },
+    {
+        "id":15,
+        "companyName": "Shelby",
+        "category": "Car",
+        "modelName":"GT500"         ,
+        "mileage": "12-18 mpg",
+        "approx.Cost": "2 Cr",
+        "website":"https://www.ford.com/cars/mustang/models/shelby-gt-500/"
+    },
    {
-       "id":13,
+       "id":16,
         "companyName": "BMW",
         "category": "Car",
         "modelName":"M5",
@@ -142,5 +150,6 @@
         "website":"https://www.cardekho.com/bmw/m5"
    }
     
+
 
 ]
