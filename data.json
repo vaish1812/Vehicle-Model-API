@@ -34,7 +34,7 @@
         "mileage": "9-11kmpl",
         "approx.Cost": "76-80 lakhs",
 
-        "website:"https://www.jaguar.in/jaguar-range/f-type/index.html"
+        "website":"https://www.jaguar.in/jaguar-range/f-type/index.html"
     },
     
     {
@@ -62,6 +62,15 @@
         "modelName":"desir"         ,
         "mileage": "9-11kmpl",
         "approx.Cost": "10 lakhs",
-        "website:"https://www.jaguar.in/jaguar-range/f-type/index.html"
+        "website":"https://www.jaguar.in/jaguar-range/f-type/index.html"
+    },
+    {
+        "id":8,
+        "companyName": "Volvo",
+        "category": "Car",
+        "modelName":"XC90"         ,
+        "mileage": "9-11kmpl",
+        "approx.Cost": "30 lakhs",
+        "website":"https://www.cardekho.com/volvo/xc-90"
     }
 ]
