@@ -299,6 +299,16 @@
         "mileage": "10kmpl",
         "approx.Cost": "2.34 CrRs",
         "website":"https://www.cardekho.com/bmw/m5"
-   }
+   },
+    {
+        "id":32,
+        "companyName": "maruti suzuki",
+        "category": "car",
+        "modelName":"850",
+        "mileage": "13kmpl",
+        "approx.Cost": "2.85-2.99 lakh Rs",
+        "website":"https://www.bikewale.com/bmw-bikes/g-310-r/"
+
+    },
 
 ]
