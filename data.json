@@ -43,5 +43,14 @@
         "mileage": "9-11kmpl",
         "approx.Cost": "1.72 lakh Rs",
         "website":"https://www.carwale.com/porsche-cars/911/"
+    },
+    {
+        "id":6,
+        "companyName": "Maruti Suzuki",
+        "category": "car",
+        "modelName":"Swift dzire",
+        "mileage": "10kmpl",
+        "approx.Cost": "10 lakh rs",
+        "website":"https://www.marutisuzuki.com/dzire"
     }
 ]
