@@ -74,8 +74,19 @@
         "website":"https://www.cardekho.com/volvo/xc-90"
     },
 
+    
     {
         "id":9,
+        "companyName": "Maruti 800",
+        "category": "Car",
+        "modelName":"800"         ,
+        "mileage": "4-5 kmpl",
+        "approx.Cost": "2 lakhs",
+        "website":"https://www.cardekho.com/carmodels/Maruti/Maruti_800"
+    },
+
+    {
+        "id":10,
         "companyName": "Suzuki",
         "category": "Car",
         "modelName":"Wagon R"         ,
@@ -85,7 +96,7 @@
     },
        
     {
-        "id":10,
+        "id":11,
         "companyName": "Volvo",
         "category": "Car",
         "modelName":"XC40"         ,
